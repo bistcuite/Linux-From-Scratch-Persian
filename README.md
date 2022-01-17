@@ -1,3 +1,3 @@
 # Linux-From-Scratch-Persian
 Linux From Scratch - Persian Translation
-[PDF](lfs-persian.pdf)
+[PDF](https://github.com/bistcuite/Linux-From-Scratch-Persian/blob/main/LFS-Persian.pdf)
